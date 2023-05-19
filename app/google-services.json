@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247918094012",
+    "firebase_url": "https://quickvet-default-rtdb.firebaseio.com",
+    "project_id": "quickvet",
+    "storage_bucket": "quickvet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247918094012:android:de7c635d6c514d889b52b9",
+        "android_client_info": {
+          "package_name": "com.example.quickvet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247918094012-iiiv6kr6gv8ppc9p05s6q283n5kprqkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ZDzrY5wTazIgQib9eIL34x7Fc4C_StM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247918094012-iiiv6kr6gv8ppc9p05s6q283n5kprqkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

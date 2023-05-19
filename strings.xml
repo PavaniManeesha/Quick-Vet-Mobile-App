@@ -1,0 +1,142 @@
+<resources>
+
+    <!--Main-->
+    <string name="app_name">QuickVet</string>
+    <string name="theme_word">The Easiest way to find Vet Doctor</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="login_btn">Login</string>
+    <string name="new_account">- - Don`t have an account - -</string>
+    <string name="doctor_signup_btn">Doctor Sign Up</string>
+    <string name="patient_signup_btn">Patient Sign Up</string>
+
+    <!--Home-->
+    <string name="home_doctor_name">Dr.Nishantha Hewage</string>
+    <string name="home_specialization">Veternary specialist</string>
+    <string name="home_location">PetVcare - Aluthgama</string>
+    <string name="home_status">Available</string>
+
+    <!--Chat List-->
+    <string name="chat_list_dr_name">Susira</string>
+    <string name="chat_list_chat">Yes, Sure</string>
+
+    <!--Chat-->
+    <string name="chat_name">Nishantha Hewage</string>
+    <string name="chat_seen_time">4.32 PM</string>
+    <string name="chat_chat">Hi, How is your pet problem?</string>
+    <string name="chat_time">2022/09/10 - 2.00 PM</string>
+
+    <!--Doctor Popup -->
+    <string name="doctor_popup_name">Nishantha Hewage</string>
+    <string name="doctor_popup_specialization">Veternary specialist</string>
+    <string name="doctor_location_">PetVcare - Aluthgama</string>
+    <string name="doctor_popup_biography">Biography</string>
+    <string name="doctor_popup_about">##################################</string>
+    <string name="doctor_popup_btn_1">Make Appointment</string>
+    <string name="doctor_popup_btn_2">Send Report</string>
+    <string name="doctor_popup_btn_3">Send Messages</string>
+
+    <!--Doctor Account Create-->
+    <string name="doctor_account_create_name">Full name</string>
+    <string name="doctor_account_create_specialization">Specialization</string>
+    <string name="doctor_account_create_contact_number">Contact Number</string>
+    <string name="doctor_account_create_clinic">Clinic Location</string>
+    <string name="doctor_account_create_clinic_address">Clinic Address</string>
+    <string name="doctor_account_create_btn_1">Choose Photo</string>
+    <string name="doctor_account_create_btn_2">Continue</string>
+
+    <!--Account Create 2-->
+    <string name="account_create_2_email">Email</string>
+    <string name="account_create_2_password">Password</string>
+    <string name="account_create_2_re_enter">Re-enter Password</string>
+    <string name="account_create_2_btn">Create My Account</string>
+
+    <!--Doctor Profile-->
+    <string name="doctor_profile_name">Dr.Thusith Goonawardana</string>
+    <string name="doctor_profile_specialization">Cardio Specialist</string>
+    <string name="doctor_profile_about">######################</string>
+    <string name="doctor_profile_number">Contact Number</string>
+    <string name="doctor_profile_location">Clinic Location</string>
+    <string name="doctor_profile_address">Clinic Address</string>
+    <string name="doctor_profile_btn_1">Change Password</string>
+    <string name="doctor_profile_btn_2">Delete My Account</string>
+
+    <!--Lab Recommendation-->
+    <string name="lab_recommendation_doctor_name">Dr.Nishantha Hewage</string>
+    <string name="lab_recommendation_client_name">Mr. Perera</string>
+    <string name="lab_recommendation_description">Description</string>
+    <string name="lab_recommendation_recommendation">Recomandation</string>
+    <string name="lab_recommendation_btn_1">Save</string>
+    <string name="lab_recommendation_btn_2">Edit</string>
+    <string name="lab_recommendation_btn_3">Delete</string>
+
+    <!--Add Report-->
+    <string name="add_report_name">Name with initial</string>
+    <string name="add_report_upload">Upload your Lab Report</string>
+    <string name="add_report_description">Description</string>
+    <string name="add_report_btn_1">Choose Lab Report</string>
+    <string name="add_report_btn_2">Save</string>
+
+    <!--Change Password-->
+    <string name="change_password_current">Current Password</string>
+    <string name="change_password_new">New Password</string>
+    <string name="change_password_re_enter">Retype-Password</string>
+    <string name="change_password_btn_save">Save</string>
+
+    <!--Client Profile-->
+    <string name="client_profile_name">Name</string>
+    <string name="client_profile_type">Pet Type</string>
+    <string name="client_profile_number">Phone Number</string>
+    <string name="client_profile_address">Address</string>
+    <string name="client_profile_btn_1">Change Password</string>
+    <string name="client_profile_btn_2">Delete Profile</string>
+
+    <!--Create client-->
+    <string name="create_client_topic">Create Account</string>
+    <string name="create_client_btn_1">Continue</string>
+
+    <!--Create client 2-->
+    <string name="create_client_2_pet_type">What type of pet you have?</string>
+    <string name="create_client_2_address">Address</string>
+    <string name="create_client_2_btn_1">Choose Photo</string>
+    <string name="create_client_2_btn_2">Submit</string>
+
+    <!--Report List-->
+    <string name="report_list_doctor_name">Dr. Nishantha Hewage</string>
+    <string name="report_list_description">###############################</string>
+
+    <!--View Report-->
+    <string name="view_report_name">Name with initial</string>
+    <string name="view_report_description">Description</string>
+    <string name="view_report_comment">Comment of Doctor</string>
+    <string name="view_report_btn_1">Update</string>
+    <string name="view_report_btn_2">Delete</string>
+
+    <!--Appointment List-->
+    <string name="appointment_list_doctor_name">Dr. Susira Perera</string>
+    <string name="appointment_list_date">2022/09/22</string>
+
+    <!--Place Appointment 2-->
+    <string name="place_appointment_2_date">Select Date</string>
+    <string name="place_appointment_2_btn_submit">Submit</string>
+
+    <!--Place Appointment-->
+    <string name="place_appointment_header">Place an Appointment</string>
+    <string name="place_appointment_name">Name</string>
+    <string name="place_appointment_type">Pet Type</string>
+    <string name="place_appointment_gender">Gender</string>
+    <string name="place_appointment_symptoms">what are the main symptoms</string>
+    <string name="place_appointment_btn_next">Next</string>
+
+    <!--View Appointment-->
+    <string name="view_appointment_header">Your Appointment</string>
+    <string name="view_appointment_hey">Hey there!</string>
+    <string name="view_appointment_btn_1">Edit Appointment Details</string>
+    <string name="view_appointment_btn_2">Cancel Appointment</string>
+
+    <!--NavBar-->
+    <string name="home_nav">Home</string>
+    <string name="appointment_nav">Appointment</string>
+    <string name="report_nav">Report</string>
+    <string name="chat_nav">Chat</string>
+
+</resources>

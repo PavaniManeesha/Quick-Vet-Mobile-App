@@ -1,0 +1,214 @@
+<resources>
+
+    <!--Main-->
+    <string name="app_name">QuickVet</string>
+    <string name="theme_word">The Easiest Way to Find\n Vet Doctor</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="login_btn">Login</string>
+    <string name="new_account">- - Don`t have an account - -</string>
+    <string name="doctor_signup_btn">Doctor Sign Up</string>
+    <string name="patient_signup_btn">Patient Sign Up</string>
+    <string name="user_name">User Name [Mobile Number]</string>
+    <string name="user_password">Password</string>
+
+    <!--Home-->
+    <string name="home_doctor_name">Doctor Name</string>
+    <string name="home_specialization">Specialist</string>
+    <string name="home_location">Clinic Location</string>
+    <string name="home_status">Available</string>
+
+    <!--Clinic List-->
+    <string name="clinic_list_name">Clinic Name</string>
+    <string name="clinic_list_location">Clinic Location</string>
+    <string name="clinic_list_contact">Contact Number</string>
+
+    <!--Create_Clinic-->
+    <string name="create_clinic_header">Place Your Clinic Details</string>
+    <string name="create_clinic_topic">Remind : You Can Add Only One Clinic</string>
+    <string name="create_clinic_name">Clinic Name</string>
+    <string name="create_clinic_contact_number">Contact_Number</string>
+    <string name="create_clinic_location">Current Location</string>
+    <string name="create_clinic_address">Current Address</string>
+    <string name="create_clinic_btn_1">Choose Photo</string>
+    <string name="create_clinic_btn_2">Add Clinic</string>
+
+    <!--Doctor Popup -->
+    <string name="doctor_popup_name">Doctor Name</string>
+    <string name="doctor_popup_specialization">Doctor Specialization</string>
+    <string name="doctor_popup_location">Location</string>
+    <string name="doctor_popup_contact_number">Contact number</string>
+    <string name="doctor_popup_email">Email</string>
+    <string name="doctor_popup_hint_1">###############</string>
+    <string name="doctor_popup_hint_2">###############</string>
+    <string name="doctor_popup_biography">Biography</string>
+    <string name="doctor_popup_about">#############################################################################################################</string>
+    <string name="doctor_popup_btn_1">Make Appointment</string>
+    <string name="doctor_popup_btn_2">Send Report</string>
+    <string name="doctor_popup_btn_3">Send Messages</string>
+
+    <!--Doctor Account Create-->
+    <string name="doctor_account_create_account">Create Doctor Account</string>
+    <string name="doctor_account_create_name">Full name</string>
+    <string name="doctor_account_create_specialization">Your Specialization</string>
+    <string name="doctor_account_create_contact_number">Contact Number</string>
+    <string name="doctor_account_create_location">Current Location</string>
+    <string name="doctor_account_create_address">Current Address</string>
+    <string name="doctor_account_create_btn_1">Choose Photo</string>
+    <string name="doctor_account_create_btn_2">Continue</string>
+
+    <!--Doctor Account Create 2-->
+    <string name="doctor_account_create_2_email">Email</string>
+    <string name="doctor_account_create_2_password">Password</string>
+    <string name="doctor_account_create_2_re_enter">Re-enter Password</string>
+    <string name="doctor_account_create_2_about">About</string>
+    <string name="doctor_account_create_2_btn">Create Account</string>
+
+    <!--Doctor Profile-->
+    <string name="doctor_profile_name">Full Name of the Doctor</string>
+    <string name="doctor_profile_specialization">Specialist of the Doctor</string>
+    <string name="doctor_profile_about">##########################################</string>
+    <string name="doctor_profile_number">Contact Number</string>
+    <string name="doctor_profile_email">Email</string>
+    <string name="doctor_profile_location">Your Location</string>
+    <string name="doctor_profile_address">Your Address</string>
+    <string name="doctor_profile_hint_1">+94 77 00 222 00</string>
+    <string name="doctor_profile_hint_2">####################</string>
+    <string name="doctor_profile_hint_3">############################</string>
+    <string name="doctor_profile_hint_4">#########################################</string>
+    <string name="doctor_profile_btn_1">Change\n Password</string>
+    <string name="doctor_profile_btn_2">Delete\n Account</string>
+    <string name="doctor_profile_btn_3">Add Your\n Clinic</string>
+    <string name="doctor_profile_btn_4">Delete Your\n Clinic</string>
+
+    <!--Lab Recommendation-->
+    <string name="lab_recommendation_doctor_name">Dr.Nishantha Hewage</string>
+    <string name="lab_recommendation_client_name">Mr. Perera</string>
+    <string name="lab_recommendation_description">Description</string>
+    <string name="lab_recommendation_recommendation">Recomandation</string>
+    <string name="lab_recommendation_btn_1">Save</string>
+    <string name="lab_recommendation_btn_2">Edit</string>
+    <string name="lab_recommendation_btn_3">Delete</string>
+
+    <!--Add Report-->
+    <string name="add_report_topic">Send Lab Report</string>
+    <string name="add_report_name">Name with initial</string>
+    <string name="add_report_upload">Upload your Lab Report</string>
+    <string name="add_report_description">Description</string>
+    <string name="add_report_btn_1">Choose Lab Report</string>
+    <string name="add_report_btn_2">Send Report</string>
+
+    <!--Change Password-->
+    <string name="change_password_topic">Change Your Password</string>
+    <string name="change_password_mobile">Mobile Number</string>
+    <string name="change_password_email">Email Address</string>
+    <string name="change_password_new">New Password</string>
+    <string name="change_password_re_enter">Retype-Password</string>
+    <string name="change_password_btn_save">Change Password</string>
+
+    <!--Client Profile-->
+    <string name="client_profile_account">Profile Picture</string>
+    <string name="client_profile_name">Full Name</string>
+    <string name="client_profile_type">Pet Type</string>
+    <string name="client_profile_number">Contact Number</string>
+    <string name="client_profile_email">Email Address</string>
+    <string name="client_profile_address">Address</string>
+    <string name="client_profile_hint_1">################</string>
+    <string name="client_profile_hint_2">########</string>
+    <string name="client_profile_hint_3">07# ### ####</string>
+    <string name="client_profile_hint_4">####################</string>
+    <string name="client_profile_hint_5">####################################</string>
+    <string name="client_profile_btn_1">Change Password</string>
+    <string name="client_profile_btn_2">Delete Profile</string>
+
+    <!--Create client-->
+    <string name="create_client_topic">Create Client Account</string>
+    <string name="create_client_full_name">Full Name [Pet Owner]</string>
+    <string name="create_client_mobile">Mobile Number [Ex: 07x xxx xxxx]</string>
+    <string name="create_client_email">Email Address</string>
+    <string name="create_client_password">Password</string>
+    <string name="create_client_re_password">Re-Type Password</string>
+    <string name="create_client_btn_1">Continue</string>
+
+    <!--Create client 2-->
+    <string name="create_client_2_pet_type">Type of Pet You Have?</string>
+    <string name="create_client_2_example">Ex: Dog</string>
+    <string name="create_client_2_address">Current Address</string>
+    <string name="create_client_2_address_hint">Pet Owner Address</string>
+    <string name="create_client_2_btn_1">Choose Photo</string>
+    <string name="create_client_2_btn_2">Submit</string>
+
+    <!--Report List-->
+    <string name="report_list_doctor_name">Dr. ######## #####</string>
+    <string name="report_list_description">##########################################################</string>
+    <string name="report_list_date">20##-##-##</string>
+
+    <!--Report List_Doctor-->
+    <string name="report_list_doctor_client">######## #####</string>
+    <string name="report_list_doctor_description">######################################</string>
+    <string name="report_list_doctor_btn_1">View Document</string>
+
+    <!--View Report-->
+    <string name="view_report_topic">Your Lab Report</string>
+    <string name="view_report_name">Name with Initial</string>
+    <string name="view_report_name_view">#################</string>
+    <string name="view_report_description">Description</string>
+    <string name="view_report_comment">Comment of Doctor</string>
+    <string name="view_report_btn_1">Update</string>
+    <string name="view_report_btn_2">Delete</string>
+    <string name="view_report_comment_view">############################################################</string>
+
+    <!--Report Recommendation-->
+    <string name="report_recommendation_name">Client Name</string>
+    <string name="report_recommendation_name_view">########################</string>
+    <string name="report_recommendation_description">Report Description</string>
+    <string name="report_recommendation_description_view">##############################################</string>
+    <string name="report_recommendation_download_report">Download Report</string>
+    <string name="report_recommendation">Recommendation</string>
+    <string name="report_recommendation_hint">Type your recommendation here. It`s be helpful for the your client</string>
+    <string name="report_recommendation_btn_1">Save</string>
+    <string name="report_recommendation_btn_2">Update</string>
+    <string name="report_recommendation_btn3">Delete</string>
+
+    <!--Appointment List-->
+    <string name="appointment_list_doctor_name">Dr. ###### ####</string>
+    <string name="appointment_list_date">20##-##-##</string>
+
+    <!--Place Appointment-->
+    <string name="place_appointment_header">Place an Appointment</string>
+    <string name="place_appointment_name">Full Name</string>
+    <string name="place_appointment_type">Pet Type</string>
+    <string name="place_appointment_radio_1">Dog</string>
+    <string name="place_appointment_radio_2">Cat</string>
+    <string name="place_appointment_radio_3">Other</string>
+    <string name="place_appointment_radio_4">Male</string>
+    <string name="place_appointment_radio_5">Female</string>
+    <string name="place_appointment_gender">Gender</string>
+    <string name="place_appointment_symptoms">what are the main symptoms</string>
+    <string name="place_appointment_btn_next">Next</string>
+
+    <!--Place Appointment 2-->
+    <string name="place_appointment_2_date">Select Date</string>
+    <string name="place_appointment_2_btn_submit">Submit</string>
+
+    <!--View Appointment-->
+    <string name="view_appointment_header">Your Appointment</string>
+    <string name="view_appointment_text_1">Doctor</string>
+    <string name="view_appointment_text_2">Pet Type</string>
+    <string name="view_appointment_text_3">Appointment Date</string>
+    <string name="view_appointment_text_4">Main Symptoms</string>
+    <string name="view_appointment_hint_1">####################</string>
+    <string name="view_appointment_hint_2">##########</string>
+    <string name="view_appointment_hint_3">##########</string>
+    <string name="view_appointment_hint_4">#######################################</string>
+    <string name="view_appointment_btn_1">Edit Details</string>
+    <string name="view_appointment_btn_2">Cancel Appointment</string>
+
+    <!--NavBar-->
+    <string name="home_nav">Home</string>
+    <string name="appointment_nav">Appointment</string>
+    <string name="report_nav">Report</string>
+    <string name="chat_nav">Chat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>
